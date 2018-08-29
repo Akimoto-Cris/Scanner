@@ -1,6 +1,6 @@
 # Image2Doc Scanner
 
-## Naive implementation with Opencv
+Naive implementation with Opencv.
 
 ## Usage
 
