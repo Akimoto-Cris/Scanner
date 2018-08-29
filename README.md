@@ -18,3 +18,11 @@ optional arguments:
                         the factor you want to shrink resolution of output.
                         (optional)
 ```
+
+## Demo
+
+input image:
+![](https://github.com/Akimoto-Cris/Scanner/blob/master/images/in.jpg?raw=true)
+
+output image:
+![](https://github.com/Akimoto-Cris/Scanner/blob/master/images/out.jpg?raw=true)
